@@ -1,6 +1,6 @@
 # Cheshire-Terminal-Cluster
 The official Github of The Cheshire Terminal Ai Solana Exo Labs Cluster Powered by $Grin token on solana
-
+https://zany-cantaloupe-d3d.notion.site/Cheshire-Terminal-150ea810c1f780ad98d9d7f4e5e9124f
 # Cheshire Terminal RAG Swarm Deployment Guide
 
 ## Prerequisites
